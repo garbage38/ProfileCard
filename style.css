@@ -216,6 +216,14 @@ body {
   background-color: #0081c2;
   color: #fff;
 }
+#chess {
+  color:	 #7F00FF;
+  border: 1px solid #0081c2;
+}
+#chess:hover {
+  background-color:  #7F00FF;
+  color: #fff;
+}
 
 .active {
   scale: 1;
